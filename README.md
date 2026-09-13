@@ -1,6 +1,6 @@
 # Technical Drawing of a Raspberry Pi 5 in AutoCAD
 
-## Project Approach
+### Project Approach
 <img width="284" height="185" alt="image" src="https://github.com/user-attachments/assets/7f9686ed-5b11-48cb-bff7-8f9af5dd2872" /><br>
 
 This project aims to improve and demonstrate my technical drawing skills by reproducing a drawing created by Raspberry Pi Ltd. I followed the original drawing as closely as possible, including its dimensions. However, rather than directly copying the technical drawing provided by the company, I created my drawing based on photographs of the Raspberry Pi 5 shown on the company’s homepage. Consequently, some components may not look exactly the same as those shown in the company’s original drawing, as illustrated below.<br>
