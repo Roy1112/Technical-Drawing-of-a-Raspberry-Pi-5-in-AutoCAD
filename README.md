@@ -11,3 +11,17 @@ This project aims to improve and demonstrate my technical drawing skills. The di
 
 ### Drawing Setup
 <img width="582" height="384" alt="image" src="https://github.com/user-attachments/assets/760c205e-f188-42f3-8179-111c88cc118e" /><br>
+
+Five additional layers were created for the drawing:<br>
+
+- Frame
+- Board
+- Component
+- Auxiliary Line
+- Dimension
+
+The **Frame** layer contains gray lines that define the printable boundary and provide a designated area for text. The **Board** layer contains green lines representing the PCB outline. The **Component** layer contains white lines representing the components. The **Auxiliary Line** layer is used solely for reference purposes and is not intended for printing. The **Dimension** layer contains the dimensional annotations, which are displayed in red.<br>
+
+Different lineweights are assigned to each layer to improve the overall readability and visual hierarchy of the drawing.<br>
+The outermost blue frame is placed on the **Defpoints** layer and is used to define the drawing window for the A4 sheet.<br>
+
