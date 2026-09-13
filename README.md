@@ -1,6 +1,6 @@
 # Technical Drawing of a Raspberry Pi 5 in AutoCAD
 
-### Project Approach
+## Project Approach
 <img width="284" height="185" alt="image" src="https://github.com/user-attachments/assets/7f9686ed-5b11-48cb-bff7-8f9af5dd2872" /><br>
 
 This project aims to improve and demonstrate my technical drawing skills by reproducing a drawing created by Raspberry Pi Ltd. I followed the original drawing as closely as possible, including its dimensions. However, rather than directly copying the technical drawing provided by the company, I created my drawing based on photographs of the Raspberry Pi 5 shown on the company’s homepage. Consequently, some components may not look exactly the same as those shown in the company’s original drawing, as illustrated below.<br>
@@ -9,7 +9,7 @@ This project aims to improve and demonstrate my technical drawing skills by repr
 
 
 
-### Drawing Setup
+## Drawing Setup
 <img width="582" height="384" alt="image" src="https://github.com/user-attachments/assets/760c205e-f188-42f3-8179-111c88cc118e" /><br>
 
 Five additional layers were created for the drawing:<br>
@@ -26,7 +26,7 @@ Different lineweights are assigned to each layer to improve the overall readabil
 The outermost blue frame is placed on the **Defpoints** layer and is used to define the drawing window for the A4 sheet.<br>
 
 
-### Drawing Methodology
+## Drawing Methodology
 
 The drawing process began by creating an A4-sized rectangle to establish the overall sheet boundary. A second rectangle was then created, with both its width and length 20 mm smaller than those of the A4 sheet. This inner rectangle defined the available drawing area. Dedicated areas for text were also created after this.<br>
 
