@@ -9,7 +9,7 @@ This project aims to improve and demonstrate my technical drawing skills. The di
 
 
 
-### Drawing Setup
+### Drawing Setup and Methodology
 <img width="582" height="384" alt="image" src="https://github.com/user-attachments/assets/760c205e-f188-42f3-8179-111c88cc118e" /><br>
 
 Five additional layers were created for the drawing:<br>
